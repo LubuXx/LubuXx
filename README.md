@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/burak baş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak baş" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/burak baş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Burak Baş" height="30" width="40" /></a>
 <a href="https://instagram.com/burakofficial_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakofficial_16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/brawler_tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brawler_tr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/clfflbrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="clfflbrtn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/brawler_tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brawler_TR" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/clfflbrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ClffLBrtn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
