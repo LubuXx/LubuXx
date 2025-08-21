@@ -63,4 +63,7 @@
     <a href="https://github.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
     </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AutoCad_new_logo.svg/2560px-AutoCad_new_logo.svg.png" alt="AutoCAD" width="120" height="120" />
+    </a>
 </p>
