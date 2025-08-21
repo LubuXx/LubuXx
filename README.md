@@ -66,4 +66,7 @@
     <a href="https://www.autodesk.com/tr/products/autocad/overview?mktvar002=4341321|SEM|21172295460|162370653113|kwd-10196511&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_ACAD_AutoCAD_EMEA_TR_eComm_SEM_BR_NA_BRO_0000_4341321_Evergreen_Max-Conv-Val-DECMigration&utm_id=4341321&utm_term=kwd-10196511&mkwid=s|pcrid|704152424822|pkw|autocad|pmt|b|pdv|c|slid||pgrid|162370653113|ptaid|kwd-10196511|pid|&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=autocad&utm_content=s|pcrid|704152424822|pkw|autocad|pmt|b|pdv|c|slid||pgrid|162370653113|ptaid|kwd-10196511|&gad_source=1&gad_campaignid=21172295460&gclid=Cj0KCQjwh5vFBhCyARIsAHBx2wzltyYufQhyF78rHv3zDFKec8yRyZUamOz-vgc36aYw0g_1iUuwE_0aAtY5EALw_wcB" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AutoCad_new_logo.svg/2560px-AutoCad_new_logo.svg.png" alt="AutoCAD" width="120" height="120" />
     </a>
+    <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
+    </a>
 </p>
