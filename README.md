@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/clfflbrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ClffLBrtn" height="30" width="40" /></a>
 </p>
 
-<p align="left"> 
+<p padding-right="10px" align="left"> 
 <h3>Languages:</h3>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
