@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Burak Baş</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Front-End | Mobile App Development**
+- 🔭 I’m currently working on **Front-End | App Development**
 
 - 🌱 I’m currently learning **Tailwind, SQL, ReactNative, MongoDB, Backend Development**
 
