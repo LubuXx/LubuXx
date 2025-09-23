@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Front-End | App Development**
 
-- 🌱 I’m currently learning **Tailwind, SQL, ReactNative, MongoDB, Backend Development**
+- 🌱 I’m currently learning **MongoDB, NextJs, ReactNative**
 
 - 📫 How to reach me **burakbas2004@gmail.com**
 
