@@ -1,3 +1,5 @@
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+
 <h3 align="left">&nbsp; A MERN Stack Developer</h3>
 
 - 🔭 I’m currently working on **Front-End | App Development**
@@ -49,6 +51,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br />
 
 # Github Stats
 
