@@ -53,55 +53,6 @@
 
 <br />
 
-# Github Stats
-
- <br />
- 
-  <p align="center">
-  <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LubuXx&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="LubuXx" />
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LubuXx&theme=material-palenight&hide_border=false" alt="LubuXx" width="55%" />
-  </a>
-</p>
- 
-
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LubuXx&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="LubuXx" />
-  </a>
-</p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
-
-
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=LubuXx&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-
-
-<br />
 
 
 <!--
