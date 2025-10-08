@@ -51,4 +51,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![snake gif](https://github.com/LubuXx/LubuXx/blob/output/github-contribution-grid-snake.gif)
+
