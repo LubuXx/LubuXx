@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Developer**
 
-- 💬 Currently learning **React Native, Java/Spring, NextJS**
+- 💬 Currently learning **React Native, SwiftUI, C/C++**
 
 - 📫 How to reach me **burakbas2004@gmail.com**
 
