@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on **MERN Stack Developer**
 
-* 💬 Currently learning **Flutter, C#.NET, Docker**
+* 💬 Currently learning **Flutter(Dart), C#.NET, Docker**
 
 * 📫 How to reach me **[burakbas2004@gmail.com](mailto:burakbas2004@gmail.com)**
 
