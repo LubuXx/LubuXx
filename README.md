@@ -1,6 +1,6 @@
 <h3 align="left">&nbsp; A MERN Stack Developer</h3>
 
-* 🔭 I’m currently working on **MERN Stack Developer**
+* 🔭 I’m currently working on **MERN Stack Development**
 
 * 💬 Currently learning **Flutter(Dart), C#.NET, Docker**
 
@@ -11,11 +11,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://www.linkedin.com/in/burak-baş-b3b4a7336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Burak Baş" height="30" width="40" /></a>
-<a href="https://instagram.com/burakofficial_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakofficial_16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/feed/brawler_tr1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brawler_TR" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ClfLBrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ClffLBrtn" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <a href="https://www.linkedin.com/in/burak-baş-b3b4a7336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Burak Baş" height="30" width="40" /></a>
+  <a href="https://instagram.com/burakofficial_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakofficial_16" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/feed/brawler_tr1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brawler_TR" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ClfLBrtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ClffLBrtn" height="30" width="40" /></a>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
 <!--
@@ -34,7 +34,7 @@
 # 🎨 Frameworks:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery\&style=for-the-badge\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
@@ -50,16 +50,17 @@
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge\&logo=Stripe\&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge\&logo=sendgrid\&logoColor=white)
+![Mailtrap](https://img.shields.io/badge/Mailtrap-22C55E?style=for-the-badge\&logo=mailtrap\&logoColor=white)
 
 # 🛠️ Tools:
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge\&logo=autodesk\&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-
-
-
